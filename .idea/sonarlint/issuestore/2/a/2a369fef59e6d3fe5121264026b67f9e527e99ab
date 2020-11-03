@@ -1,0 +1,151 @@
+
+P
+java:S1948)".Make "pacman2right" transient or serializable.(ìê¬»ûÿÿÿÿ8ÀÓ½ÜÍ.
+u
+java:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ğ€ìÇøÿÿÿÿ8Ğ‡ÍÏ.
+J
+java:S1659&"(Declare "ghostSpeed" on a separate line.(¿Ï“±ûÿÿÿÿ8ÀÓ½ÜÍ.
+K
+java:S1659*")Declare "pacman3down" on a separate line.(ÉÊï‡ûÿÿÿÿ8ÀÓ½ÜÍ.
+p	java:S116-"TRename this field "pacmand_y" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÃ†¢8ÀÓ½ÜÍ.
+>
+java:S1170"!Make this final field static too.(©ªñß8ÀÓ½ÜÍ.
+G
+java:S1659&"%Declare "ghost_y" on a separate line.(¿Ï“±ûÿÿÿÿ8ÀÓ½ÜÍ.
+p	java:S100ı"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¯‰°ıÿÿÿÿ8§²ÙÃÑ.
+Q
+java:S1128"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8ì¬”ÂÑ.
+F
+java:S1659+")Declare "pacman4left" on a separate line.(ñÏˆü8ÀÓ½ÜÍ.
+D
+java:S1659-"'Declare "pacmand_y" on a separate line.(ÚÃ†¢8ÀÓ½ÜÍ.
+p	java:S116-"TRename this field "pacmand_x" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÃ†¢8ÀÓ½ÜÍ.
+C
+java:S1170"!Make this final field static too.(Õî¢Ûûÿÿÿÿ8ÀÓ½ÜÍ.
+G
+java:S2140ï")Use "java.util.Random.nextInt()" instead.(íêµĞ8Ğ‡ÍÏ.
+L
+java:S1659*"*Declare "pacman3right" on a separate line.(ÉÊï‡ûÿÿÿÿ8ÀÓ½ÜÍ.
+G
+java:S2140‡")Use "java.util.Random.nextInt()" instead.(¡ïôî8Ğ‡ÍÏ.
+J
+java:S1948+"-Make "pacman4down" transient or serializable.(ñÏˆü8ÀÓ½ÜÍ.
+C
+java:S1170"!Make this final field static too.(ıÅšˆıÿÿÿÿ8ÀÓ½ÜÍ.
+k	java:S100ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÍ¢¹8ùçºÃÑ.
+G
+java:S1659+"*Declare "pacman4right" on a separate line.(ñÏˆü8ÀÓ½ÜÍ.
+C
+java:S1170"!Make this final field static too.(áö“—ÿÿÿÿÿ8ÀÓ½ÜÍ.
+|
+java:S3012Ü"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(·Ğ¡ˆûÿÿÿÿ8Ğ‡ÍÏ.
+k	java:S100ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùø¹À8Æ×ØÃÑ.
+o	java:S116-"SRename this field "pacman_x" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÃ†¢8ÀÓ½ÜÍ.
+K
+java:S1659)")Declare "pacman2down" on a separate line.(ìê¬»ûÿÿÿÿ8ÀÓ½ÜÍ.
+K
+java:S1659)")Declare "pacman2left" on a separate line.(ìê¬»ûÿÿÿÿ8ÀÓ½ÜÍ.
+D
+java:S1948("'Make "ghost" transient or serializable.(âÉ£ª8ÀÓ½ÜÍ.
+Z
+java:S11970"8Move the array designator from the variable to the type.(´Ûì¥úÿÿÿÿ8ÀÓ½ÜÍ.
+R
+java:S1066»"/Merge this if statement with the enclosing one.(‰“Ë¬úÿÿÿÿ8Ğ‡ÍÏ.
+C
+java:S1170"!Make this final field static too.(Ò˜Âüÿÿÿÿ8ÀÓ½ÜÍ.
+x	java:S116"WRename this field "PACMAN_SPEED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õî¢Ûûÿÿÿÿ8ÀÓ½ÜÍ.
+t	java:S116&"SRename this field "ghost_dy" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ï“±ûÿÿÿÿ8ÀÓ½ÜÍ.
+O
+java:S1948)"-Make "pacman2left" transient or serializable.(ìê¬»ûÿÿÿÿ8ÀÓ½ÜÍ.
+p
+java:S3776×"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(äì¶³8Ğ‡ÍÏ.
+s	java:S116&"RRename this field "ghost_y" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ï“±ûÿÿÿÿ8ÀÓ½ÜÍ.
+F
+java:S1659+")Declare "pacman4down" on a separate line.(ñÏˆü8ÀÓ½ÜÍ.
+z	java:S116"YRename this field "PAC_ANIM_DELAY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áö“—ÿÿÿÿÿ8ÀÓ½ÜÍ.
+D
+java:S1905ß"&Remove this unnecessary cast to "int".(¾„Ë8Ğ‡ÍÏ.
+I
+java:S1659)"'Declare "pacman2up" on a separate line.(ìê¬»ûÿÿÿÿ8ÀÓ½ÜÍ.
+w	java:S116"VRename this field "SCREEN_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…òÙ²şÿÿÿÿ8ÀÓ½ÜÍ.
+v	java:S116"URename this field "BLOCK_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò˜Âüÿÿÿÿ8ÀÓ½ÜÍ.
+J
+java:S1948+"-Make "pacman4left" transient or serializable.(ñÏˆü8ÀÓ½ÜÍ.
+s	java:S116&"RRename this field "ghost_x" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ï“±ûÿÿÿÿ8ÀÓ½ÜÍ.
+u
+java:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(–°éòùÿÿÿÿ8Ğ‡ÍÏ.
+v	java:S116"URename this field "MAX_GHOSTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔªŸÕıÿÿÿÿ8ÀÓ½ÜÍ.
+H
+java:S1948+"+Make "pacman4up" transient or serializable.(ñÏˆü8ÀÓ½ÜÍ.
+G
+java:S1659."%Declare "view_dx" on a separate line.(˜íÏÿıÿÿÿÿ8ÀÓ½ÜÍ.
+A
+java:S1948"$Make "ii" transient or serializable.(À­µÉ8ÀÓ½ÜÍ.
+O
+java:S1948*"-Make "pacman3left" transient or serializable.(ÉÊï‡ûÿÿÿÿ8ÀÓ½ÜÍ.
+E
+java:S1659$"#Declare "score" on a separate line.(ÌÆÚ°øÿÿÿÿ8ÀÓ½ÜÍ.
+T
+java:S1117å"6Rename "dx" which hides the field declared at line 37.(­µÑä8Ğ‡ÍÏ.
+o	java:S116-"SRename this field "pacman_y" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÃ†¢8ÀÓ½ÜÍ.
+t	java:S116&"SRename this field "ghost_dx" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ï“±ûÿÿÿÿ8ÀÓ½ÜÍ.
+o
+java:S3776¶"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(İ¼õA8Ğ‡ÍÏ.
+Z
+java:S1197B"8Move the array designator from the variable to the type.(®÷§Œøÿÿÿÿ8ÀÓ½ÜÍ.
+H
+java:S1659&"&Declare "ghost_dx" on a separate line.(¿Ï“±ûÿÿÿÿ8ÀÓ½ÜÍ.
+Y	java:S125ß"<This block of commented-out lines of code should be removed.(İõÅï8ó‘ÆÁÑ.
+k	java:S100õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š­ß¡8ùçºÃÑ.
+C
+java:S1170"!Make this final field static too.(…òÙ²şÿÿÿÿ8ÀÓ½ÜÍ.
+F
+java:S1659."$Declare "req_dy" on a separate line.(˜íÏÿıÿÿÿÿ8ÀÓ½ÜÍ.
+L
+java:S1659)"*Declare "pacman2right" on a separate line.(ìê¬»ûÿÿÿÿ8ÀÓ½ÜÍ.
+K
+java:S1948+".Make "pacman4right" transient or serializable.(ñÏˆü8ÀÓ½ÜÍ.
+O
+java:S1948)"-Make "pacman2down" transient or serializable.(ìê¬»ûÿÿÿÿ8ÀÓ½ÜÍ.
+D
+java:S1905²"&Remove this unnecessary cast to "int".(ö‹ªß8Ğ‡ÍÏ.
+C
+java:S1659-"&Declare "pacman_y" on a separate line.(ÚÃ†¢8ÀÓ½ÜÍ.
+M
+java:S1948)"+Make "pacman2up" transient or serializable.(ìê¬»ûÿÿÿÿ8ÀÓ½ÜÍ.
+s	java:S116."RRename this field "view_dx" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜íÏÿıÿÿÿÿ8ÀÓ½ÜÍ.
+t	java:S116"SRename this field "N_BLOCKS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÅšˆıÿÿÿÿ8ÀÓ½ÜÍ.
+s	java:S116."RRename this field "view_dy" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜íÏÿıÿÿÿÿ8ÀÓ½ÜÍ.
+Y	java:S125Ô"<This block of commented-out lines of code should be removed.(İõÅï8öĞĞÁÑ.
+C
+java:S1170C"!Make this final field static too.(´•«Çøÿÿÿÿ8ÀÓ½ÜÍ.
+O
+java:S1948*"-Make "pacman3down" transient or serializable.(ÉÊï‡ûÿÿÿÿ8ÀÓ½ÜÍ.
+M
+java:S1948*"+Make "pacman3up" transient or serializable.(ÉÊï‡ûÿÿÿÿ8ÀÓ½ÜÍ.
+r	java:S116."QRename this field "req_dx" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜íÏÿıÿÿÿÿ8ÀÓ½ÜÍ.
+K
+java:S1948)")Make "pacman1" transient or serializable.(ìê¬»ûÿÿÿÿ8ÀÓ½ÜÍ.
+C
+java:S1170"!Make this final field static too.(ÔªŸÕıÿÿÿÿ8ÀÓ½ÜÍ.
+H
+java:S1659&"&Declare "ghost_dy" on a separate line.(¿Ï“±ûÿÿÿÿ8ÀÓ½ÜÍ.
+D
+java:S1659-"'Declare "pacmand_x" on a separate line.(ÚÃ†¢8ÀÓ½ÜÍ.
+P
+java:S1144â"2Remove this unused private "continueLevel" method.(˜‹“ü8ó‘ÆÁÑ.
+t	java:S116#"SRename this field "N_GHOSTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø†µøÿÿÿÿ8ÀÓ½ÜÍ.
+K
+java:S1659*")Declare "pacman3left" on a separate line.(ÉÊï‡ûÿÿÿÿ8ÀÓ½ÜÍ.
+B
+java:S1659%" Declare "dy" on a separate line.(ÒøÀşÿÿÿÿ8ÀÓ½ÜÍ.
+P
+java:S1948*".Make "pacman3right" transient or serializable.(ÉÊï‡ûÿÿÿÿ8ÀÓ½ÜÍ.
+G
+java:S1659."%Declare "view_dy" on a separate line.(˜íÏÿıÿÿÿÿ8ÀÓ½ÜÍ.
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ƒŸ™ÂÑ.
+x	java:S116"\Rename this field "PACMAN_ANIM_COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ªñß8ÀÓ½ÜÍ.
+r	java:S116."QRename this field "req_dy" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜íÏÿıÿÿÿÿ8ÀÓ½ÜÍ.
+B
+java:S1659«"Declare "y" on a separate line.(¡Ê²‘şÿÿÿÿ8Ğ‡ÍÏ.

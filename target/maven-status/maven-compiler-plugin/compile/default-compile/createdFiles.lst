@@ -1,0 +1,10 @@
+com\bereznikov\pacman\RobotMovementImpl.class
+com\bereznikov\pacman\Board$TAdapter.class
+com\bereznikov\pacman\Pacman.class
+com\bereznikov\pacman\search\DepthSearchImpl.class
+com\bereznikov\pacman\search\DepthSearch.class
+com\bereznikov\pacman\console\ConsoleHelper.class
+com\bereznikov\pacman\RobotMovement.class
+com\bereznikov\pacman\Board.class
+com\bereznikov\pacman\search\MazeSearchTree.class
+com\bereznikov\pacman\util\UtilMethods.class
